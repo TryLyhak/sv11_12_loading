@@ -1,7 +1,8 @@
 name: sv11_12_loading
-description: "A new Flutter package project."
+description: "This package creating for class using loading dialog in flutter"
 version: 0.0.1
-homepage:
+homepage: "https://github.com/TryLyhak/sv11_12_loading.git"
+repository: "https://github.com/TryLyhak/sv11_12_loading.git"
 
 environment:
   sdk: ^3.10.8
